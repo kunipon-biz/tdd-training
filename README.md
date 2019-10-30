@@ -1,3 +1,3 @@
 # TDDTraining
-## コミットメントルール
+## コミットコメントルール
 * Chapter Page Figure description
